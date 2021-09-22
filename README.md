@@ -2,7 +2,6 @@
   <img max-width="100%" src="https://i.imgur.com/orfhf4u.png?1">
 </p>
 
-![Logo](https://i.imgur.com/orfhf4u.png?1) 
 
     
 ## 🚀 About Me
