@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" height="100%" src="https://i.imgur.com/orfhf4u.png?1">
+  <img width="50%" height="50%" src="https://i.imgur.com/orfhf4u.png?1">
 </p>
 
 ![Logo](https://i.imgur.com/orfhf4u.png?1) 
