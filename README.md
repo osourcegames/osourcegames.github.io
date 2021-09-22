@@ -1,4 +1,4 @@
- ![Logo](https://i.imgur.com/orfhf4u.png?1) 
+ <center> ![Logo](https://i.imgur.com/orfhf4u.png?1) </center>
 
     
 ## 🚀 About Me
