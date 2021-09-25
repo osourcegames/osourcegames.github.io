@@ -1,4 +1,4 @@
-github: #
+github: abindent
 patreon: OpenSourceGames
 open_collective: # Replace with a single Open Collective username
 ko_fi: # Replace with a single Ko-fi username
@@ -7,4 +7,4 @@ community_bridge: # Replace with a single Community Bridge project-name e.g., cl
 liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
-custom: #
+custom: [ 'https://osourcegames.firebaseapp.com/' , 'https://opensource.ezyro.com/' , 'https://dsc.gg/musica-bot' , 'https://ecodefun.firebaseapp.com' ]
