@@ -24,7 +24,7 @@ This is my project where I have made a heroku app and deployed all the things wi
             
 ## Author
 
-- [@Think-With-Us](https://www.github.com/think-With-Us)
+- [@Think-With-Us (Abindent)](https://www.github.com/abindent)
 
   
 ## License and Main Dependencies
