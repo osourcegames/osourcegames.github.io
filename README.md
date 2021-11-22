@@ -37,7 +37,7 @@ This is my project where I have made a heroku app and deployed all the things wi
 - [![Dependencies](https://img.shields.io/static/v1?label=main-dependencies&message=django-heroku&color=green)](https://pypi.org/project/django-heroku/)
 
 - [![Dependencies](https://img.shields.io/static/v1?label=main-dependencies&message=gunicorn&color=green)](https://gunicorn.org/)
-- 
+
 - [![Dependencies](https://img.shields.io/static/v1?label=main-dependencies&message=django-jazzmin&color=green)](https://django-jazzmin.readthedocs.io/)
 
 [![license](https://img.shields.io/static/v1?label=License&message=Github&color=blue)](https://github.com/Think-With-Us/django.git)
