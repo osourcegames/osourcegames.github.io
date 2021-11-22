@@ -19,8 +19,8 @@ Javascript, HTML, CSS, Python...
 ![Logo](https://emojis.slackmojis.com/emojis/images/1483054030/1541/django.png)  ![Logo](https://emojis.slackmojis.com/emojis/images/1470681426/745/plus.png)  ![Logo](https://emojis.slackmojis.com/emojis/images/1483053257/1538/bootstrap.png)  ![Logo](https://emojis.slackmojis.com/emojis/images/1470681426/745/plus.png)  ![Logo](https://emojis.slackmojis.com/emojis/images/1587484871/8712/github.png)  ![Logo](https://emojis.slackmojis.com/emojis/images/1470681426/745/plus.png)  ![Logo](https://emojis.slackmojis.com/emojis/images/1465929657/511/heroku.png)
 
 ## Desciption
-This is my project where I have made a heroku app and deployed all the things with the help of github.
-            [Go and Visit Now](https://dankersalewebsite.herokuapp.com)
+This is my project where I have made a heroku app and deployed all the things with the help of github. Here you can analyze your text, edit and style your text for free with customer care 
+            [Go and Visit Now](https://textanalyzerpy.herokuapp.com)
             
 ## Author
 
@@ -46,10 +46,25 @@ This is my project where I have made a heroku app and deployed all the things wi
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinchan-maitra-22a303217/)
 - [![reddit](https://img.shields.io/reddit/subreddit-subscribers/Abindent?style=social)](https://reddit.com/r/Abindent)
 - [![discord](https://img.shields.io/discord/843750265554206740)](https://discord.com/invite/dFW3gG7gPy) 
-  
-## FAQ
+- [![youtube](https://img.shields.io/youtube/channel/subscribers/UCYCtnmYa44736S7GbfnbYoQ?style=social)](https://tiny.cc/discoHuge-YT)
 
-#### How can I make a website with django and heroku?
+## FAQ
+***1) HOW TO USE THIS?***
+
+*ANS* : 
+**WATCH THIS _VIDEO_**
+
+
+https://user-images.githubusercontent.com/86192575/140603942-0c217435-ddd9-41de-ad74-8da2982eda32.mp4
+
+
+
+
+
+
+***2) HOW TO HOST A WEBSITE WITH DJNAGO, GITHUB AND HEROKU?***
+
+*ANS*: 
  
 Don't worry [Github](https://github.com) is here.         
 Follow the following steps to host your site fro free.
