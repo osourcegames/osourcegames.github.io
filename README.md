@@ -76,7 +76,7 @@ Follow the following steps to host your site fro free.
     
                 pip install django
                 
-       pipenv install django [For Creating Virtual Environment and Pipfile & Pipfile.lock]
+                pipenv install django [For Creating Virtual Environment]
 
 
 2) Open the folder where you want to save your project and type cmd in the place of the folder's path and run this command
@@ -142,7 +142,7 @@ Then go to github and create a new repository and push your code by running the 
 
                           > git add .
                           > git commit -m "Allowed Hosts"
-                          > git push -u origin main
+                          > git push -u origin main [use --force after the command if rejecting]
 
 13) Now you need connect that github repository to your heroku app. Where your configured django project is available.
 ![Logo](https://i.imgur.com/QTPKLP5.jpg) 
