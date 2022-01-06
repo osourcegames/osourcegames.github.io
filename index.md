@@ -32,28 +32,27 @@ Quickly save your  notes on on the  cloud,  update and  delete your notes online
 
   
 ## Dependencies 
-- [![@popperjs/core](https://img.shields.io/badge/@popperjs/core-2.11.0-green?style=for-the-badge&logo=npm)]()
-- [![@testing-library/jest-dom](https://img.shields.io/badge/testing--library%2Fjest--dom-5.11.4-green?style=for-the-badge&logo=npm)]()
-- [![@testing-library/jest-dom](https://img.shields.io/badge/testing--library%2Freact-11.1.0-green?style=for-the-badge&logo=npm)]()
-- [![]()]()
-- [![]()]()
-- [![]()]()
-- [![]()]()
-- [![react](https://img.shields.io/badge/react-17.0.2-green?style=for-the-badge&logo=npm)](https://reactjs.org/)
-- [![]()]()
-- [![]()]()
-- [![]()]()
-- [![]()]()
-- [![]()]()
-- [![]()]()
-- [![]()]()
-- [![]()]()
-- [![]()]()
-- [![]()]()
-- 
+- [![@popperjs/core](https://img.shields.io/badge/@popperjs/core-2.11.0-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@popperjs/core)
+- [![@testing-library/jest-dom](https://img.shields.io/badge/testing--library%2Fjest--dom-5.11.4-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@testing-library/jest-dom)
+- [![@testing-library/react](https://img.shields.io/badge/testing--library%2Freact-11.1.0-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@testing-library/react)
+- [![@testing-library/user-event](https://img.shields.io/badge/testing--library%2Fuser--event-12.1.10-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@testing-library/user-event)
+- [![bootsrap](https://img.shields.io/badge/bootstrap-3.0.0-brightgreen?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/bootstrap)
+- [![bootstrap-icons](https://img.shields.io/badge/bootstrap--icons-1.7.2-brightgreen?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/bootstrap-icons)
+- [![emailjs-com](https://img.shields.io/badge/emailjs--com-3.2.0-brightgreen?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/emailjs-com)
+- [![react](https://img.shields.io/badge/react-17.0.2-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/react)
+- [![react-bootstrap](https://img.shields.io/badge/react--bootstrap-2.0.3-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/react-bootstrap)
+- [![react-bootstrap-icons](https://img.shields.io/badge/react--bootstrap--icons-1.6.1-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/react-bootstrap-icons)
+- [![react-dom](https://img.shields.io/badge/react--dom-17.0.2-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/react-dom)
+- [![react-meta-tag](https://img.shields.io/badgereact--meta--tag-1.0.1-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/react-meta-tag)
+- [![react-router-dom](https://img.shields.io/badge/react--router--dom-5.2.0-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/react-router-dom)
+- [![react-scripts](https://img.shields.io/badge/react--scripts-4.0.3-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/react-scripts)
+- [![serve](https://img.shields.io/badge/serve-13.0.2-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/serve)
+- [![sweetalert2](https://img.shields.io/badge/sweetalert2-11.3.0-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/sweetalert2)
+- [![web-vitals](https://img.shields.io/badge/web--vitals-1.0.1-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/web-vital)
+- [![react-https-redirect](https://img.shields.io/badge/react--https--redirect-1.1.0-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/react-https-redirect)
 # Run and install
 ```yml
-     
+   [Test]  
 ```
 ## How to access?
 Visit at https://onotebook.herokuapp.com/
