@@ -1,10 +1,9 @@
-# The Merlot theme
+# OpenSourceGames Gihtub
 
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/merlot/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/merlot/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-merlot.svg)](https://badge.fury.io/rb/jekyll-theme-merlot)
 
-*Merlot is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/merlot), or even [use it today](#usage).*
+*OpenSource is the free source of HTML CSS and JAVA Script based Games. In this website you will get many interesting and exciting games. As a team of passionate gaming enthusiasts, OpenSource is dedicated to celebrating the gaming community. Our expansive content includes current news, recent releases and helpful guides, all of which are geared for our fellow gamers, novices and professionals alike. We’re committed to enhancing your gaming experience. You can contact us for one-on-one support or browse our ever-expanding selection of articles and videos to find exactly what you’re looking for. We’re looking forward to hearing from you.*
 
-![Thumbnail of Merlot](thumbnail.png)
+![Thumbnail of Merlot](https://osourcegames.firebaseapp.com/assets/images/canva.png)
 
 ## Usage
 
