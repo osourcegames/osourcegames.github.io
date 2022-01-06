@@ -50,12 +50,9 @@ Quickly save your  notes on on the  cloud,  update and  delete your notes online
 - [![sweetalert2](https://img.shields.io/badge/sweetalert2-11.3.0-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/sweetalert2)
 - [![web-vitals](https://img.shields.io/badge/web--vitals-1.0.1-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/web-vital)
 - [![react-https-redirect](https://img.shields.io/badge/react--https--redirect-1.1.0-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/react-https-redirect)
-# Run and install
-```yml
-   [Test]  
-```
+
 ## How to access?
-Visit at https://onotebook.herokuapp.com/
+Visit  https://onotebook.herokuapp.com/
 
 
 
