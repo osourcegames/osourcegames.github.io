@@ -43,7 +43,7 @@ Quickly save your  notes on on the  cloud,  update and  delete your notes online
 - [![react-bootstrap](https://img.shields.io/badge/react--bootstrap-2.0.3-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/react-bootstrap)
 - [![react-bootstrap-icons](https://img.shields.io/badge/react--bootstrap--icons-1.6.1-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/react-bootstrap-icons)
 - [![react-dom](https://img.shields.io/badge/react--dom-17.0.2-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/react-dom)
-- [![react-meta-tag](https://img.shields.io/badgereact--meta--tag-1.0.1-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/react-meta-tag)
+- [![react-meta-tag](https://img.shields.io/badge/react--meta--tag-1.0.1-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/react-meta-tag)
 - [![react-router-dom](https://img.shields.io/badge/react--router--dom-5.2.0-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/react-router-dom)
 - [![react-scripts](https://img.shields.io/badge/react--scripts-4.0.3-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/react-scripts)
 - [![serve](https://img.shields.io/badge/serve-13.0.2-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/serve)
