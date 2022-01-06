@@ -31,10 +31,10 @@ Quickly save your  notes on on the  cloud,  update and  delete your notes online
 - [@Think-With-Us (abindent)](https://www.github.com/abindent)
 
   
-## License and Main Dependencies
+## Dependencies 
 - [![@popperjs/core](https://img.shields.io/badge/@popperjs/core-2.11.0-green?style=for-the-badge&logo=npm)]()
 - [![@testing-library/jest-dom](https://img.shields.io/badge/testing--library%2Fjest--dom-5.11.4-green?style=for-the-badge&logo=npm)]()
-- [![]()]()
+- [![@testing-library/jest-dom](https://img.shields.io/badge/testing--library%2Freact-11.1.0-green?style=for-the-badge&logo=npm)]()
 - [![]()]()
 - [![]()]()
 - [![]()]()
