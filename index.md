@@ -33,7 +33,7 @@ Quickly save your  notes on on the  cloud,  update and  delete your notes online
   
 ## License and Main Dependencies
 - [![@popperjs/core](https://img.shields.io/badge/@popperjs/core-2.11.0-green?style=for-the-badge&logo=npm)]()
-- [![@](https://img.shields.io/badge/testing-library/jest-dom-5.11.4-green?style=for-the-badge&logo=npm)]()
+- [![@testing-library/jest-dom](https://img.shields.io/badge/testing-library jest-dom-5.11.4-green?style=for-the-badge&logo=npm)]()
 - [![]()]()
 - [![]()]()
 - [![]()]()
