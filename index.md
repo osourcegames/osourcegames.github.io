@@ -3,10 +3,10 @@
 
 *OpenSource is the free source of HTML CSS and JAVA Script based Games. In this website you will get many interesting and exciting games. As a team of passionate gaming enthusiasts, OpenSource is dedicated to celebrating the gaming community. Our expansive content includes current news, recent releases and helpful guides, all of which are geared for our fellow gamers, novices and professionals alike. We’re committed to enhancing your gaming experience. You can contact us for one-on-one support or browse our ever-expanding selection of articles and videos to find exactly what you’re looking for. We’re looking forward to hearing from you.*
 
-![[Firebase](https://img.shields.io/badge/bootstrap-v3-brightgreen?style=for-the-badge&logo=npm)]()
-![[jquery](https://img.shields.io/badge/jquery-v1.10.2-brightgreen?style=for-the-badge&logo=nodetojs)]()
-![[Bootstrap](https://img.shields.io/badge/bootstrap-v3.0.0-brightgreen?style=for-the-badge&logo=appveyor)]()
-![[fontawesome](https://img.shields.io/badge/fontawesome-v6-brightgreen?style=for-the-badge&logo=appveyor)]()
+![Firebase](https://img.shields.io/badge/bootstrap-v3-brightgreen?style=for-the-badge&logo=npm)
+![jquery](https://img.shields.io/badge/jquery-v1.10.2-brightgreen?style=for-the-badge&logo=nodetojs)
+![Bootstrap](https://img.shields.io/badge/bootstrap-v3.0.0-brightgreen?style=for-the-badge&logo=appveyor)
+![fontawesome](https://img.shields.io/badge/fontawesome-v6-brightgreen?style=for-the-badge&logo=appveyor)
 
 ## Usage
 
