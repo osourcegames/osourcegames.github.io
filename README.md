@@ -52,6 +52,6 @@ Quickly save your  notes on on the  cloud,  update and  delete your notes online
 - [![react-https-redirect](https://img.shields.io/badge/react--https--redirect-1.1.0-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/react-https-redirect)
 
 ## How to access?
-Visit  https://onotebook.herokuapp.com/
+[Click Here](https://onotebook.herokuapp.com/) to visit the site.
 
 
