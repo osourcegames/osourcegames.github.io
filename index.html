@@ -18,13 +18,23 @@
         $('#main_content').headsmart()
       })
     </script>
-    <style>
+ <style>
+      .flex {
+    display: flex;
+    margin-top: 0;
+    justify-content: space-around;
+}
+
+.a {
+    color: lightgrey;
+    font-family: 'Poppins',sans-serif;
+}
       @media (max-width: 640px){
         #title{
          font-size: 20px;
         }
       }
-    </style> 
+</style> 
 
 <!-- Begin Jekyll SEO tag v2.7.1 -->
 <title>OpenSourceGames Official Github | osourcegames.github.io</title>
@@ -65,6 +75,11 @@
           <span class="ribbon-inner">
             <h1 id="title">osourcegames.github.io</h1>
             <h2>OpenSource Github</h2>
+            <ul class="flex">
+                  <li><a class="a" href="/">Home</a>
+                  </li><li><a class="a" href="/about">About</a></li>
+                  <li><a class="a" href="/other-projects">Other Projects</a><a></a></li>
+            </ul>
           </span>
           <span class="left-tail"></span>
           <span class="right-tail"></span>
