@@ -21,7 +21,7 @@ Javascript, HTML, CSS, Python...
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinchan-maitra-22a303217/)
 - [![reddit](https://img.shields.io/reddit/subreddit-subscribers/Abindent?style=social)](https://reddit.com/r/Abindent)
 - [![discord](https://img.shields.io/discord/843750265554206740)](https://discord.com/invite/dFW3gG7gPy) 
-- [![youtube](https://img.shields.io/youtube/channel/subscribers/UCYCtnmYa44736S7GbfnbYoQ?style=social)](https://tiny.cc/discoHuge-YT)
+- [![youtube](https://img.shields.io/youtube/channel/subscribers/UCYCtnmYa44736S7GbfnbYoQ?style=social)](https://tiny.cc/DiscoHuge-YT)
 
 ## 🆕 Latest Big Project 
 
