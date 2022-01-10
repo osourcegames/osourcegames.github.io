@@ -5,7 +5,7 @@
 
 [Click here](https://osourcegames.firebaseapp.com) to visit OpenSourceGames
 
-[![Firebase](https://img.shields.io/badge/bootstrap-v3-brightgreen?style=for-the-badge&logo=npm)](https://firebase.google.com)
+[![Firebase](https://img.shields.io/badge/firebase-v9.5.0-brightgreen?style=for-the-badge&amp;logo=npm)](https://firebase.google.com)
 [![jquery](https://img.shields.io/badge/jquery-v1.10.2-brightgreen?style=for-the-badge&logo=nodedotjs)](https://jquery.com/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-v3.0.0-brightgreen?style=for-the-badge&logo=appveyor)](https://getbootstrap.com/)
 [![fontawesome](https://img.shields.io/badge/fontawesome-v6-brightgreen?style=for-the-badge&logo=appveyor)](https://fontawesome.com/)
