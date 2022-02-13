@@ -22,7 +22,7 @@ Quickly save your  notes on on the  cloud,  update and  delete your notes online
 ## Author
 
 - [@Think-With-Us (abindent)](https://www.github.com/abindent)
-- 
+
 ## 🕵️‍ Technologies Used
 1. NodeJS
 2. ReactJS (Frontened Framework)
