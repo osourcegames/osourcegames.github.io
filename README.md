@@ -51,7 +51,6 @@ Repo Uri : https://github.com/abindent/ONoteBook
 
 ## Dependencies (Backened)
 Repo Uri : https://github.com/abindent/ONoteBook-Backened
-- [![nodemon](https://img.shields.io/badge/nodemon-2.0.15-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/nodemon)
 - [![bcryptjs](https://img.shields.io/badge/bcryptjs-2.4.3-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/bcryptjs)
 - [![concurrently](https://img.shields.io/badge/concurrently-6.4.0-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/concurrently)
 - [![cors](https://img.shields.io/badge/cors-6.4.0-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/cors)
