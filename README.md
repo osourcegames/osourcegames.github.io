@@ -22,9 +22,13 @@ Quickly save your  notes on on the  cloud,  update and  delete your notes online
 ## Author
 
 - [@Think-With-Us (abindent)](https://www.github.com/abindent)
-
+- 
+## 🕵️‍ Technologies Used
+1. NodeJS
+2. ReactJS (Frontened Framework)
+3. Express App (Backened Framework)
   
-## Dependencies 
+## Dependencies (Frontened)
 - [![@popperjs/core](https://img.shields.io/badge/@popperjs/core-2.11.0-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@popperjs/core)
 - [![@testing-library/jest-dom](https://img.shields.io/badge/testing--library%2Fjest--dom-5.11.4-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@testing-library/jest-dom)
 - [![@testing-library/react](https://img.shields.io/badge/testing--library%2Freact-11.1.0-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@testing-library/react)
@@ -43,6 +47,8 @@ Quickly save your  notes on on the  cloud,  update and  delete your notes online
 - [![sweetalert2](https://img.shields.io/badge/sweetalert2-11.3.0-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/sweetalert2)
 - [![web-vitals](https://img.shields.io/badge/web--vitals-1.0.1-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/web-vital)
 - [![react-https-redirect](https://img.shields.io/badge/react--https--redirect-1.1.0-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/react-https-redirect)
+
+## Dependencies (Backened)
 
 ## How to access?
 [Click Here](https://onotebook.herokuapp.com/) to visit the site.
