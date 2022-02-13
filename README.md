@@ -53,7 +53,7 @@ Quickly save your  notes on on the  cloud,  update and  delete your notes online
 - [![bcryptjs](https://img.shields.io/badge/bcryptjs-2.4.3-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/bcryptjs)
 - [![concurrently](https://img.shields.io/badge/concurrently-6.4.0-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/concurrently)
 - [![cors](https://img.shields.io/badge/cors-6.4.0-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/cors)
-- [![express](https://img.shields.io/badge/cors-2.8.5-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/express)
+- [![express](https://img.shields.io/badge/express-4.17.1-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/express)
 - [![express-validator](https://img.shields.io/badge/express--validator-6.13.0-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/express-validator)
 - [![jsonwebtoken](https://img.shields.io/badge/jsonwebtoken-8.5.1-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/jsonwebtoken)
 - [![mongoose](https://img.shields.io/badge/mongoose-6.1.1-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/mongoose) 
