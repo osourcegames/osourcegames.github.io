@@ -29,6 +29,7 @@ Quickly save your  notes on on the  cloud,  update and  delete your notes online
 3. Express App (Backened Framework)
   
 ## Dependencies (Frontened)
+Repo Uri : https://github.com/abindent/ONoteBook
 - [![@popperjs/core](https://img.shields.io/badge/@popperjs/core-2.11.0-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@popperjs/core)
 - [![@testing-library/jest-dom](https://img.shields.io/badge/testing--library%2Fjest--dom-5.11.4-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@testing-library/jest-dom)
 - [![@testing-library/react](https://img.shields.io/badge/testing--library%2Freact-11.1.0-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@testing-library/react)
@@ -49,6 +50,7 @@ Quickly save your  notes on on the  cloud,  update and  delete your notes online
 - [![react-https-redirect](https://img.shields.io/badge/react--https--redirect-1.1.0-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/react-https-redirect)
 
 ## Dependencies (Backened)
+Repo Uri : https://github.com/abindent/ONoteBook-Backened
 - [![nodemon](https://img.shields.io/badge/nodemon-2.0.15-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/nodemon)
 - [![bcryptjs](https://img.shields.io/badge/bcryptjs-2.4.3-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/bcryptjs)
 - [![concurrently](https://img.shields.io/badge/concurrently-6.4.0-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/concurrently)
