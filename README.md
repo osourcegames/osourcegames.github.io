@@ -49,6 +49,14 @@ Quickly save your  notes on on the  cloud,  update and  delete your notes online
 - [![react-https-redirect](https://img.shields.io/badge/react--https--redirect-1.1.0-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/react-https-redirect)
 
 ## Dependencies (Backened)
+- [![nodemon](https://img.shields.io/badge/nodemon-2.0.15-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/nodemon)
+- [![bcryptjs](https://img.shields.io/badge/bcryptjs-2.4.3-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/bcryptjs)
+- [![concurrently](https://img.shields.io/badge/concurrently-6.4.0-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/concurrently)
+- [![cors](https://img.shields.io/badge/cors-6.4.0-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/cors)
+- [![express](https://img.shields.io/badge/cors-2.8.5-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/express)
+- [![express-validator](https://img.shields.io/badge/express--validator-6.13.0-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/express-validator)
+- [![jsonwebtoken](https://img.shields.io/badge/jsonwebtoken-8.5.1-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/jsonwebtoken)
+- [![mongoose](https://img.shields.io/badge/mongoose-6.1.1-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/mongoose) 
 
 ## How to access?
 [Click Here](https://onotebook.herokuapp.com/) to visit the site.
