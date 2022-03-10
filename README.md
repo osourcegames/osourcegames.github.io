@@ -1,6 +1,19 @@
 # Abindent Official Github
 <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&lines=I+am+Sinchan+Maitra;A+student+of+class+9;I+am+a+beginner+one+now+busy+with+studies;Thanks+for+checking+out+my+repositories" alt="typing text"/>
 
+
+## 📊 Github stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/abindent/abindent"><img alt="abindent's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=abindent&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/abindent/abindent"><img alt="abindent's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abindent&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
 ## 🚀 About Sinchan Maitra (abindent)
 I'm a a beginner developer for Python and Javascript...
 
@@ -16,7 +29,10 @@ Javascript, HTML, CSS, Python...
 
 
 ## 📕 Top projects 
-<p aign="left"><a href="https://github.com/abindent/Nextcord-Utility-Bot"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abindent&repo=Nextcord-Utility-Bot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats" /></a></p>
+<p aign="left">
+  <a href="https://github.com/abindent/Nextcord-Utility-Bot"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abindent&repo=Nextcord-Utility-Bot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats" /></a>
+
+</p>
 
 
 ## 🆕 Latest Big Project 
