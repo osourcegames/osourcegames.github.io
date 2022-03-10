@@ -1,5 +1,5 @@
 # Abindent Official Github
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75C7E&lines=I+am+Sinchan+Maitra;A+student+class+9;I+am+a+beginner+one+now+busy+with+studies;Thanks+for+checking+out+my+repositories)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75C7E&lines=I+am+Sinchan+Maitra;A+student+class+9;I+am+a+beginner+one+now+busy+with+studies;Thanks+for+checking+out+my+repositories)]
 
 ## 🚀 About Sinchan Maitra (abindent)
 I'm a a beginner developer for Python and Javascript...
