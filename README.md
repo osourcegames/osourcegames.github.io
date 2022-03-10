@@ -13,6 +13,18 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/abindent/abindent/blob/main/README.md">
+    <img alt="abindent's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abindent&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/abindent/abindent"><img alt="Abindent's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=abindent&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ## 🚀 About Sinchan Maitra (abindent)
 I'm a a beginner developer for Python and Javascript...
@@ -83,15 +95,4 @@ Repo Uri : https://github.com/abindent/ONoteBook-Backened
 ## How to access?
 [Click Here](https://onotebook.herokuapp.com/) to visit the site.
 
-## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/abindent/abindent/blob/main/README.md">
-    <img alt="abindent's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abindent&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-</p>
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/abindent/abindent"><img alt="Abindent's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=abindent&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
