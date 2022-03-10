@@ -48,7 +48,7 @@ Javascript, HTML, CSS, Python...
   <a href="https://github.com/abindent/ONoteBook"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abindent&repo=ONoteBook&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats" /></a>
   <a href="https://github.com/abindent/ONoteBook-backened"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abindent&repo=ONoteBook-backened&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats" /></a>
   <a href="https://github.com/abindent/templateio"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abindent&repo=templateio&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats" /></a>
-  <a href="https://github.com/abindent/chat-chat"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abindent&repo=chat-chat&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats" /></a>
+  <a href="https://github.com/abindent/Nextcord-Ticket-Bot"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abindent&repo=Nextcord-Ticket-Bot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats" /></a>
 </p>
 
 
