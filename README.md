@@ -14,6 +14,11 @@ Javascript, HTML, CSS, Python...
 - [![discord](https://img.shields.io/discord/843750265554206740?style=for-the-badge&logo=discord)](https://discord.io/OpenSourceGames) 
 - [![youtube](https://img.shields.io/youtube/channel/subscribers/UCYCtnmYa44736S7GbfnbYoQ?style=for-the-badge&logo=youtube)](https://tiny.cc/DiscoHuge-YT)
 
+
+## 📕 Top projects 
+<p aign="left"><a href="https://github.com/abindent/Nextcord-Utility-Bot"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abindent&repo=Nextcord-Utility-Bot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats" /></a></p>
+
+
 ## 🆕 Latest Big Project 
 
 ## Description
