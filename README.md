@@ -1,6 +1,5 @@
 # Abindent Official Github
-<p align="center"><img src="(https://readme-typing-svg.herokuapp.com?font=serif&duration=4000&color=F75C7E&multiline=true&lines=I+am+Sinchan+Maitra+a+9th+grade+student+;I+am+from+West+Bengal%2C+India;I+am+a+beginner+one+busy+with+studies;This+is+my+hobby;Thanks+for+checking+out+the+repo." alt="typing text"/></p>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=serif&duration=4000&color=F75C7E&multiline=true&lines=I+am+Sinchan+Maitra+a+9th+grade+student+;I+am+from+West+Bengal%2C+India;I+am+a+beginner+one+busy+with+studies;This+is+my+hobby;Thanks+for+checking+out+the+repo.)](https://git.io/typing-svg)
 
 ## 📊 Github stats
 
