@@ -1,5 +1,5 @@
 # Abindent Official Github
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&lines=I+am+Sinchan+Maitra;A+student+of+class+9;I+am+a+beginner+one+now+busy+with+studies;Thanks+for+checking+out+my+repositories" alt="typing text"/></p>
+<p align="center"><img src="(https://readme-typing-svg.herokuapp.com?font=serif&duration=4000&color=F75C7E&multiline=true&lines=I+am+Sinchan+Maitra+a+9th+grade+student+;I+am+from+West+Bengal%2C+India;I+am+a+beginner+one+busy+with+studies;This+is+my+hobby;Thanks+for+checking+out+the+repo." alt="typing text"/></p>
 
 
 ## 📊 Github stats
