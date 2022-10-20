@@ -80,7 +80,7 @@ I am a school student. I love to code during my offtime and I want to contribute
 [<img align="left" alt="Abindent | Reddit" src="https://img.shields.io/reddit/subreddit-subscribers/OpenSourceGame?style=for-the-badge&logo=reddit" />][reddit]
 [<img align="left" alt="Abindent | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Abindent | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<br/>
 ---
 
 ## 📕 Top projects 
