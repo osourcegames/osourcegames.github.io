@@ -83,6 +83,21 @@ I am a school student. I love to code during my offtime and I want to contribute
 [<img align="left" alt="Abindent | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
+---
+
+## 📕 Top projects 
+<p aign="left">
+  <a href="https://github.com/abindent/Nextcord-Utility-Bot"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abindent&repo=Nextcord-Utility-Bot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats" /></a>
+  <a href="https://github.com/abindent/Nextcord-Ticket-Bot"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abindent&repo=Nextcord-Ticket-Bot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats" /></a>
+  <a href="https://github.com/abindent/textanalyzer.py"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abindent&repo=textanalyzer.py&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats" /></a>
+    <a href="https://github.com/abindent/NextJs-TailwindCSS-GraphCMS-Blog-App"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abindent&repo=NextJs-TailwindCSS-GraphCMS-Blog-App&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats" /></a>  
+  <a href="https://github.com/abindent/ONoteBook"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abindent&repo=ONoteBook&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats" /></a>
+  <a href="https://github.com/abindent/ONoteBook-backened"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abindent&repo=ONoteBook-backened&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats" /></a>
+  <a href="https://github.com/abindent/templateio"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abindent&repo=templateio&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats" /></a>
+  <a href="https://github.com/abindent/advancesource"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abindent&repo=advancesource&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats" /></a>
+  <a href="https://github.com/abindent/JagaranNewsApp"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abindent&repo=JagaranNewsApp&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats" /></a>  
+</p>
+
 
 ---
 Let's connect 👨‍💻 and forge the future together.😁✌
