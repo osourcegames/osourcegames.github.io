@@ -74,18 +74,13 @@ I am a school student. I love to code during my offtime and I want to contribute
 
 ---
 
-
 ### You can find in me in the web 🌍
 [<img align="left" alt="Abindent" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Abindent | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="Abindent | Reddit" width="22px" src="https://img.shields.io/reddit/subreddit-subscribers/OpenSourceGame?style=for-the-badge&logo=reddit" />][reddit]
+[<img align="left" alt="Abindent | Reddit" src="https://img.shields.io/reddit/subreddit-subscribers/OpenSourceGame?style=for-the-badge&logo=reddit" />][reddit]
 [<img align="left" alt="Abindent | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Abindent | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-
-
-<br/>
 ---
 
 ## 📕 Top projects 
@@ -101,8 +96,8 @@ I am a school student. I love to code during my offtime and I want to contribute
   <a href="https://github.com/abindent/JagaranNewsApp"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abindent&repo=JagaranNewsApp&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats" /></a>  
 </p>
 
-
 ---
+
 Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
