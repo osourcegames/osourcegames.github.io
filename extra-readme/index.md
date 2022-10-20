@@ -8,13 +8,11 @@
 
 I am a school student. I love to code during my offtime and I want to contribute something to help others. I am trying improve my coding skills.I have slightly improved myself. :wink:
  
- 🔭 I’m planning for a Project **ONoteBook: A Service to save notes over cloud**.
+ 🔭 I’m working on the Project **ONoteBook: A Service to save notes over cloud**.
  
  🌱 I’m currently learning <img src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social"> 
  
-
- 
- 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
+ 💬 Help me about Full Stack Development, Cloud, and any Tech-related stuff.
 
 
 ![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
