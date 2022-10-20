@@ -1,5 +1,3 @@
-<script type="module" src="https://unpkg.com/@rocktimsaikia/github-card@latest?module"></script>
-
 ### Hey Sinchan here 👋
 
 ---
