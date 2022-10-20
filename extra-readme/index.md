@@ -8,7 +8,7 @@
 
 I am a school student. I love to code during my offtime and I want to contribute something to help others. I am trying improve my coding skills.I have slightly improved myself. :wink:
  
- 🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
+ 🔭 I’m planning for a Project **ONoteBook: A Service to save notes over cloud**.
  
  🌱 I’m currently learning <img src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social"> 
  
