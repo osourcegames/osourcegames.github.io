@@ -1,14 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <script type="module" src="https://unpkg.com/@rocktimsaikia/github-card@latest?module"></script>
-</head>
-<body>
-    
+<script type="module" src="https://unpkg.com/@rocktimsaikia/github-card@latest?module"></script>
 
-
-
-### Hey Sinchanhere 👋
+### Hey Sinchan here 👋
 
 ---
 
