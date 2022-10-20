@@ -57,10 +57,6 @@ I am a school student. I love to code during my offtime and I want to contribute
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
-
-
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
-
 ---
 
 
