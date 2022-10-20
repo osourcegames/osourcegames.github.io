@@ -36,7 +36,7 @@ Javascript, HTML, CSS, Python...
 ## 🔗 Links
 
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinchan-maitra-22a303217/)
-- [![reddit](https://img.shields.io/reddit/subreddit-subscribers/Abindent?style=for-the-badge&logo=reddit)](https://reddit.com/r/OpenSourceGame)
+- [![reddit](https://img.shields.io/reddit/subreddit-subscribers/OpenSourceGame?style=for-the-badge&logo=reddit)](https://reddit.com/r/OpenSourceGame)
 - [![discord](https://img.shields.io/discord/843750265554206740?style=for-the-badge&logo=discord)](https://discord.io/OpenSourceGames) 
 - [![youtube](https://img.shields.io/youtube/channel/subscribers/UCYCtnmYa44736S7GbfnbYoQ?style=for-the-badge&logo=youtube)](https://tiny.cc/DiscoHuge-YT)
 
