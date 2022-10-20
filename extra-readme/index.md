@@ -77,8 +77,7 @@ I am a school student. I love to code during my offtime and I want to contribute
 
 ### You can find in me in the web 🌍
 [<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][linkedin]
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -91,9 +90,8 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 :star: From [Souravdey777](https://github.com/Souravdey777)
 
-[website]: https://souravdey777.github.io/Portfolio/
-[twitter]: https://twitter.com/Souravdey777
+[website]: https://abindent.github.io
 [youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/souravdey777/
+[instagram]: https://www.instagram.com/itz_abindent_xtreme/
 [linkedin]: https://www.linkedin.com/in/sourav-dey/
 [medium]: https://medium.com/@Souravdey777/
