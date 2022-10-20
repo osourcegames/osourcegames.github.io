@@ -78,9 +78,12 @@ I am a school student. I love to code during my offtime and I want to contribute
 ### You can find in me in the web 🌍
 [<img align="left" alt="Abindent" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Abindent | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="Abindent | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
+[<img align="left" alt="Abindent | Reddit" width="22px" src="https://img.shields.io/reddit/subreddit-subscribers/OpenSourceGame?style=for-the-badge&logo=reddit" />][reddit]
 [<img align="left" alt="Abindent | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Abindent | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+
 
 <br/>
 ---
