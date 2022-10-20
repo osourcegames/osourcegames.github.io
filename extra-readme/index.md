@@ -1,9 +1,19 @@
-### Hey Sourav here 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script type="module" src="https://unpkg.com/@rocktimsaikia/github-card@latest?module"></script>
+</head>
+<body>
+    
+
+
+
+### Hey Sinchanhere 👋
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
+<github-card data-user="abindent" data-theme="dark"></github-card>
 </p>
 
 I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
@@ -83,3 +93,5 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 [instagram]: https://www.instagram.com/souravdey777/
 [linkedin]: https://www.linkedin.com/in/sourav-dey/
 [medium]: https://medium.com/@Souravdey777/
+</body>
+</html>
