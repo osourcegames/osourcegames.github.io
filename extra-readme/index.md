@@ -78,8 +78,8 @@ I am a school student. I love to code during my offtime and I want to contribute
 [<img align="left" alt="Abindent" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Abindent | Discord" src="https://img.shields.io/discord/843750265554206740?style=for-the-badge&logo=discord" />][discord]
 [<img align="left" alt="Abindent | Reddit" src="https://img.shields.io/reddit/subreddit-subscribers/OpenSourceGame?style=for-the-badge&logo=reddit" />][reddit]
-[<img align="left" alt="Abindent | LinkedIn" src="https://img.shields.io/badge/linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Abindent | Instagram" src="https://img.shields.io/badge/instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="Abindent | LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Abindent | Instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 <br/>
 ---
 
