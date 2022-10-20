@@ -10,7 +10,7 @@ I am a school student. I love to code during my offtime and I want to contribute
  
  🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
  
- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-c++-black?logo=c-language&style=social"> 
+ 🌱 I’m currently learning <img src="https://img.shields.io/badge/-C-Language-black?logo=c%2B%2B&style=social"> 
  
 
  
