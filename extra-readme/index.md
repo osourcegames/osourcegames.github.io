@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abindent/abindent/main/extra-readme/Gthub%20Profile%20Card.png" width="100%" height="315vh" title="Intro Card" alt="Intro Card">
+  <img src="https://raw.githubusercontent.com/abindent/abindent/main/extra-readme/Gthub%20Profile%20Card.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a school student. I love to code during my offtime and I want to contribute something to help others. I am trying improve my coding skills.I have slightly improved myself. :wink:
