@@ -3,10 +3,10 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abindent/abindent/main/extra-readme/Gthub%20Profile%20Card.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://raw.githubusercontent.com/abindent/abindent/main/extra-readme/Gthub%20Profile%20Card.png" width="100%" height="100vh" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
+I am a school student. I love to code during my offtime and I want to contribute something to help others. I am trying improve my coding skills.I have slightly improved myself. :wink:
  
  🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
  
