@@ -64,7 +64,7 @@ I am a school student. I love to code during my offtime and I want to contribute
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/abindent/abindent/blob/main/README.md">
-    <img alt="abindent's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abindent&theme=monokai-metallian&hide_border=true"/>
+    <img alt="abindent's streak" src="https://streak-stats.demolab.com?user=abindent&theme=nightowl&hide_border=true"/>
   </a>
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
