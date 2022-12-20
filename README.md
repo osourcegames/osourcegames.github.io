@@ -70,7 +70,7 @@ I am a school student. I love to code during my offtime and I want to contribute
 </p>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/abindent/abindent"><img alt="Abindent's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=abindent&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/abindent/abindent"><img alt="Abindent's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=abindent&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ---
 
